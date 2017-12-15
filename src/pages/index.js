@@ -2,8 +2,8 @@ import React from 'react'
 import Link from 'gatsby-link'
 
 const IndexPage = ({data}) => (
-  <div>
-    <h1>Hi people</h1>
+  <div className="index-page-wrapper" >
+    <h1>Well hello you!</h1>
     <p>This is my first try to build a blog with Gatsby</p>
     <p>Feel free to look around!</p>
     

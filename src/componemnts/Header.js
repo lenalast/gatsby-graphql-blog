@@ -5,7 +5,7 @@ const Header = () => (
   <div className="header">
       <h1 className="header-title" >
         <Link to="/">
-          Lenas blog for developers
+          Dev blog
         </Link>
       </h1>
   </div>
