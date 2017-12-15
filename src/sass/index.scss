@@ -1,0 +1,27 @@
+@import 'header';
+@import 'blog-post-template';
+
+body {
+  margin: 0;
+  font-family: Geneva, sans-serif;
+  box-sizing: border-box;
+}
+
+h1, h2, h3, h4 {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  &:hover {
+    color: #A16791;
+  }
+}
+
+.children-wrapper {
+  margin: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}

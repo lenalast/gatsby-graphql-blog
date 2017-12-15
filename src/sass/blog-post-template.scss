@@ -1,0 +1,13 @@
+.blog-post-template {
+  width: 60%;
+  padding-top: 40px;
+  .blog-post-content {
+    padding-top: 20px;
+  }
+  .back-link {
+    font-size: 12px;
+    &:hover {
+      color: #A16791;
+    }
+  }
+}

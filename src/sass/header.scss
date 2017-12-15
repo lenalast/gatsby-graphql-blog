@@ -1,0 +1,13 @@
+.header {
+  // display: flex;
+  // justify-content: center;
+  // align-items: center;
+  height: 40vh;
+  background: url(../assets/images/cherry-coffe.jpg) no-repeat center center;
+  .header-title {
+    text-align: end;
+    color: white;
+    padding-top: 20px;
+    padding-right: 20px;
+  }
+}
